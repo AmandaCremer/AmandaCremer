@@ -4,7 +4,7 @@
 
 •Estou me desenvolvendo na linguagem Javascript
 
-•Utilizo esta espaço para organização e compartilhamento dos projetos
+•Utilizo este espaço para organização e compartilhamento dos meus projetos
 
 ### Você quer entrar em contato comigo📩
 
